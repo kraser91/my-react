@@ -1,0 +1,35 @@
+.head { 
+    grid-area: h; 
+    background-color: rgb(42, 71, 165);  
+    display: flex;
+
+} 
+.head .imeg img { 
+    width: 40px; 
+    padding-top: 20px; 
+    padding-left: 20px;
+} 
+.head .logo { 
+    padding-left: 20px; 
+    padding-bottom: 20px;
+}
+
+.head .logo h2 { 
+    font-size: 30px; 
+    
+}
+
+.head .login a{
+    font-size: 25px;
+    right: 20px;
+    font-weight: bold;
+    padding: 10px;
+    color: black;
+}
+.head .login{
+    float: right;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 10px;
+    color: greenyellow;
+}

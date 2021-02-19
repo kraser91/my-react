@@ -1,0 +1,8 @@
+.menu { 
+    grid-area: m; 
+    background-color: darkkhaki;
+} 
+/* .menu ul { 
+    text-decoration: none; 
+    list-style: none;
+} */

@@ -1,0 +1,20 @@
+li { 
+    list-style-type: none; 
+    margin: 0 auto;
+}
+.User { 
+    display: block; 
+    height: 30px; 
+    width: 150px; 
+    border-radius: 15px;  
+    color: rgb(3, 3, 3);
+    background-color: rgb(52, 197, 88); 
+    font-size: 20px; 
+    text-decoration: none;  
+    padding: 10px 10px 0 10px;
+    margin: 10px; 
+    transition: .5s all ease;
+} 
+.User.active {
+     background-color: rgb(198, 218, 24);
+}

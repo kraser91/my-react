@@ -1,0 +1,21 @@
+.profile { 
+     display: flex; 
+     justify-content: space-around;
+     width: 800px;
+} 
+/* .profile .ava {  */
+     
+/* }  */
+.profile .ava img { 
+     width: 80px; 
+     padding-top: 35px;
+} 
+/* .profile .text  { 
+     
+} 
+.profile .text h2 { 
+     
+}   
+.profile .text p { 
+     
+}  */

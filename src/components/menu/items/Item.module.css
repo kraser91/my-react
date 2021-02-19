@@ -1,0 +1,19 @@
+li { 
+    list-style-type: none; 
+    margin: 0 auto;
+}
+.item { 
+    display: block; 
+    height: 45px; 
+    width: 180px;  
+    color: rgb(3, 3, 3);
+    background-color: rgb(197, 52, 52); 
+    font-size: 20px; 
+    text-decoration: none;  
+    padding: 10px 10px 0 10px;
+    margin: 10px; 
+    transition: .5s all ease;
+} 
+.item.active {
+     background-color: darkslategray;
+}

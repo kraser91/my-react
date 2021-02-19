@@ -1,0 +1,16 @@
+.activeUser { 
+    display: inline-block; 
+    margin: 20px 10px;
+} 
+.activeUser img { 
+    height: 50px; 
+    width: 50px; 
+    border-radius: 50%;
+} 
+
+.activeUser .logo { 
+
+}  
+.activeUser .status { 
+
+}
